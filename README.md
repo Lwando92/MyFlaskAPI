@@ -1,6 +1,6 @@
 # My Amazing RESTfull API
 
-## Instalation
+## Installation
 
 * pip install pipenv
 * pipenv shell
